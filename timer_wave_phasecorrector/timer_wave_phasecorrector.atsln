@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "timer_wave_phasecorrector", "timer_wave_phasecorrector\timer_wave_phasecorrector.cproj", "{2BC5F7FE-523B-4AF8-BE72-6F35F0AABA6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC5F7FE-523B-4AF8-BE72-6F35F0AABA6E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{2BC5F7FE-523B-4AF8-BE72-6F35F0AABA6E}.Debug|AVR.Build.0 = Debug|AVR
+		{2BC5F7FE-523B-4AF8-BE72-6F35F0AABA6E}.Release|AVR.ActiveCfg = Release|AVR
+		{2BC5F7FE-523B-4AF8-BE72-6F35F0AABA6E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
